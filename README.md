@@ -5,7 +5,10 @@
 ## Business Problem
 #### In order gain a clear understanding of the Nigerian Real Estate market, an Exploratory Data Analysis project is necessary. This EDA project focuses on;
 - property prices in Nigeria.
-- property types in the Nigeria Real Estate Market
+- property types in the Nigerian Real Estate Market
+- common features of properties in the Nigerian Real Estate Market.
+- factors that influence property prices in the Nigerian Real Estate Market.
+
 #### These insights are often needed by Real Estate Development companies to estimate the potential Return On Investment (ROI) of a proposed investment.
 ### Categorical Features 
 #### Bedrooms - Number of bedrooms

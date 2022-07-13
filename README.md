@@ -1,2 +1,16 @@
 # Exploratory-Data-Analysis-for-Residential-Real-Estate-Prices-in-Nigeria
-#### This project explores residential Real Estate prices in various cities in Nigeria, Africa. The dataset used was scrapped by ... on Kaggle. It contains data on residential Real Estate in 25 out of the 36 Federal States in Nigeria. The dataset is cleaned and then analyzed in a attempt to gain insights on the average price of residential Real Estate in various cities in Nigeria. These insights are often needed by Real Estate Development companies to estimate the potential Return On Investment (ROI) of a proposed investment.
+## Introduction
+#### This Exploratory Data Analysis project was carried out to gain insights on the Nigerian Property Market. The Federal Republic of Nigeria, is a country in West Africa and the most populous country in Africa with a population of over 216 million. Nigeria borders Niger in the north, Chad in the northeast, Cameroon in the east, and Benin in the west. Nigeria consists of 36 Federal states and the Federal Capital Territory, Abuja. Lagos is the largest city in Nigeria and the second-largest in Africa.
+#### The dataset used was obtained from Kaggle (https://www.kaggle.com/datasets/abdullahiyunus/nige houses-and-prices-dataset). It contains data on Lagos Property prices scrapped by Abdullahi Yunus ( https://www.kaggle.com/abdullahiyunus).
+## Business Problem
+#### In order gain a clear understanding of the Nigerian Real Estate market, an Exploratory Data Analysis project is necessary. This EDA project focuses on;
+- property prices in Nigeria.
+- property types in the Nigeria Real Estate Market
+#### These insights are often needed by Real Estate Development companies to estimate the potential Return On Investment (ROI) of a proposed investment.
+### Categorical Features 
+#### Bedrooms - Number of bedrooms
+#### Toilets - Bumber of toilets 
+#### Bathrooms - Number of bathrooms
+#### State - Federal State
+#### Title - Property type
+#### Town - Town in a federal state

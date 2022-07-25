@@ -12,7 +12,7 @@
 #### These insights are often needed by Real Estate Development companies to estimate the potential Return On Investment (ROI) of a proposed investment.
 ### Categorical Features 
 #### Bedrooms - Number of bedrooms
-#### Toilets - Bumber of toilets 
+#### Toilets - Number of toilets 
 #### Bathrooms - Number of bathrooms
 #### State - Federal State
 #### Title - Property type
